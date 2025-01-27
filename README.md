@@ -35,9 +35,12 @@ For our project we used VR tools integrated with Cognitive 3D to create a VR pre
 - Meta Quest 3
 - Code: Visual Studio Code
 - Design: Figma
-- PlasticSCM Version Control, 
+- PlasticSCM Version Control,
 
+## Videos 
+https://youtu.be/wfVBvK13Wrc?feature=shared
 
+https://youtu.be/mZjqRApffyo?feature=shared
 ## Photos 
 ![SalesSheet_HangerPro](https://github.com/user-attachments/assets/81bb21b7-cc8e-4845-b9c6-d1af99797a07)
 
